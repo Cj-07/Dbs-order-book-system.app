@@ -1,0 +1,29 @@
+h1{
+    color:red;
+}
+.close-market{
+    margin-left: 100px;
+    margin-top:-20px;
+}
+  table.stock-date {
+  width: 100%;
+  height:100%;
+  background-color: #ffffff;
+  border-collapse: collapse;
+  border-width: 2px;
+  border-color: #ff0000;
+  border-style: solid;
+  color: #000000;
+}
+
+table.stock-date td,table.stock-date th {
+  border-width: 2px;
+  border-color: #ff0000;
+  border-style: solid;
+  padding: 3px;
+}
+
+table.stock-date thead {
+  background-color: #ff0000;
+}
+
